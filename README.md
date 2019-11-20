@@ -1,6 +1,9 @@
-# tugas_2
+# osg8_tugas_2
 
-A new Flutter project.
+Nama : Dewa Prabawa
+
+# 
+
 
 ## Getting Started
 
